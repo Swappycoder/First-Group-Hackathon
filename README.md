@@ -47,7 +47,7 @@ The Space Tourism Website stands at the forefront of interactive educational pla
 
 To run this project locally, clone the repository and run the following commands:
 
-1. `git clone https://github.com/murtazaj24/planetary-tourism`
+1. `git clone https://github.com/Swappycoder/First-Group-Hackathon.git`
 2. `npm install`
 3. `npm run dev`
 
@@ -59,7 +59,7 @@ Yayy! You have successfully run planetary-tourism on your local machine
 
 2. Aishwarya Patil
 
-3. Murtaza Jambughodawala
+3. Murtaza Jambughodawala [Leader]
 
 4. Aarul Koul
 
